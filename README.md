@@ -1,1 +1,1 @@
-printf group project of Xolani Kunene and Muhammad Mousa
+ALX SE Program - C Programming -printf Project- Teamwork by Xolani Kunene and Muhammad
